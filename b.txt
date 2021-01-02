@@ -1,5 +1,5 @@
 commit: Lưu lại trạng thái của index asd zxc
 commit: Lưu lại trạng thái của index uio
-commit: Lưu lại trạng thái của index asd
+commit: Lưu lại trạng thái của index asdminh
 
 
